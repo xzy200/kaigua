@@ -1,5 +1,5 @@
 # kaigua
 - [ ] 极速入门 Python3
-    - [ ] `Python 新手入门课`
-    - [ ] `Python3 简明教程`
-    - [ ] `oeasy 教您玩转 python`
+    - [ ] `Python_新手入门课`
+    - [ ] `Python3_简明教程`
+    - [ ] `oeasy_教您玩转_python`
